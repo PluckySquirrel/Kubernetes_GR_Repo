@@ -10,7 +10,7 @@ Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang A
   - Docker utilizes LXC containers.
   - Setting up these container environment is hard as they are very low level and that is where Docker offers a high level tool with several powerful functionalities making it really easy for end users like us.
 * Containers vs VMs
-  - ![alt text](https://github.com/PluckySquirrel/Kubernetes_GR_Repo/blob/master/Images/Picture1.png?raw=true = 250x500)
+  - ![alt text](https://github.com/PluckySquirrel/Kubernetes_GR_Repo/blob/master/Images/Picture1.png?raw=true =250x500)
 * Container vs Image <image>
   - ![alt text](https://github.com/PluckySquirrel/Kubernetes_GR_Repo/blob/master/Images/Picture2.png?raw=true)
   - An image is a package or a template, just like a VM template that you might have worked with in the visualization world. It is used to create one ormore containers.
