@@ -3,6 +3,7 @@ Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang A
 
 **MUST READ: How to discover this repository:**
 - Below is the research progress, this will be updated with time
+- For kubectl command lab research, see Kubernetes.docx, this will be updated with time
 - For research on deployment of Kubernetes on Docker Desktop, click DockerDesktop.docx
 
 **<h2>1. Introduction to Kubernetes</h2>**
