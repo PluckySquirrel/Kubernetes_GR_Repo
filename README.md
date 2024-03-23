@@ -1,11 +1,11 @@
-# Kubernetes_GR_Repo
+### Kubernetes_GR_Repo
 Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang Anh - 20210048 - HUST 
 
 **MUST READ: How to discover this repository:**
 - Below is the research progress, this will be updated with time
 - For research on deployment of Kubernetes on Docker Desktop, click DockerDesktop.docx
 
-**1. Introduction to Kubernetes**
+##**1. Introduction to Kubernetes**
 - Kubernetes also known as K8s was built by Google based on their experience running containers in production. It is now an open-source project and is arguably one of the best and most popular container orchestration technologies out there.
 - To understand Kubernetes, we must understand two things - Container and Orchestration.
   a. Container
@@ -20,7 +20,7 @@ Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang A
   - An image is a package or a template, just like a VM template that you might have worked with in the visualization world. It is used to create one ormore containers.
   - Containers are running instances off images that are isolated and have their own environments and set of processes.
   b. Orchestration
-**2. Kubernetes Concepts - PODs | ReplicaSets | Deployment | Services**
+##**2. Kubernetes Concepts - PODs | ReplicaSets | Deployment | Services**
   a. PODs
     - A POD is a single instance of an application. A POD is the smallest object, that you can create in Kubernetes
     - Kubernetes deploys containers into PODs <image>
@@ -35,8 +35,8 @@ Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang A
       + The two containers can also communicate with each other directly by referring to each other as 'localhost' since they share the same network namespace.
     - If we want to link a new helper container with our app, we can establish a network connectivity between the app and the helper, and Kubernetes does this automatically <image>
     - ![alt text](https://github.com/PluckySquirrel/Kubernetes_GR_Repo/blob/master/Images/Picture6.png?raw=true)
-**3. Introduction to YAML**
-**4. Networking in Kubernetes**
-**5. Kubernetes Management - Kubectl**
-**6. Kubernetes Definition Files - YAML**
-**7. Kubernetes on Cloud - AWS/GCP**
+#3**3. Introduction to YAML**
+##**4. Networking in Kubernetes**
+##**5. Kubernetes Management - Kubectl**
+##**6. Kubernetes Definition Files - YAML**
+##**7. Kubernetes on Cloud - AWS/GCP**
