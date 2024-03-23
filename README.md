@@ -1,6 +1,10 @@
 # Kubernetes_GR_Repo
 Gradual Research course for Infrastructure as Code (IaC) by Luong Nguyen Hoang Anh - 20210048 - HUST 
 
+MUST READ: How to discover this repository:
+- Below is the research progress, this will be updated with time
+- For research on deployment of Kubernetes on Docker Desktop, click DockerDesktop.docx
+
 1. Introduction to Kubernetes
 - Kubernetes also known as K8s was built by Google based on their experience running containers in production. It is now an open-source project and is arguably one of the best and most popular container orchestration technologies out there.
 - To understand Kubernetes, we must understand two things - Container and Orchestration.
